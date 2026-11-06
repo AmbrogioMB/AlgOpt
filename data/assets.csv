@@ -1,0 +1,11 @@
+ticker,sector,price,exp_return,volatility,max_weight
+ALFA,Banks,39.16,0.1122,0.2149,0.2
+BETA,Banks,101.39,0.085,0.2154,0.2
+GAMMA,Tech,78.08,0.1622,0.1925,0.2
+DELTA,Tech,65.02,0.1423,0.2544,0.2
+EPSILON,Energy,62.91,0.0541,0.269,0.2
+ZETA,Pharma,121.72,0.0751,0.1554,0.2
+ETA,Consumer,137.19,0.054,0.1735,0.2
+THETA,Utilities,38.94,0.0546,0.1319,0.2
+IOTA,Bonds,103.13,0.0281,0.0565,0.4
+KAPPA,Commodities,55.27,0.0449,0.1244,0.2
