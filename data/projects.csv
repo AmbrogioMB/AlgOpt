@@ -1,0 +1,26 @@
+project,sector,investment,expected_profit,risk_score
+P01,Energy,106,45.7,9
+P02,Healthcare,128,38.0,8
+P03,Infrastructure,21,5.3,4
+P04,Healthcare,81,33.6,7
+P05,Tech,78,16.5,3
+P06,Infrastructure,149,51.2,5
+P07,Infrastructure,67,14.1,2
+P08,Infrastructure,41,7.9,2
+P09,Energy,45,15.5,9
+P10,Real estate,82,14.7,3
+P11,Infrastructure,97,26.4,6
+P12,Healthcare,62,18.8,4
+P13,Infrastructure,77,12.8,4
+P14,Real estate,106,37.7,5
+P15,Real estate,59,17.2,5
+P16,Tech,146,46.4,10
+P17,Energy,47,10.8,4
+P18,Tech,142,35.1,7
+P19,Energy,134,36.6,6
+P20,Tech,145,38.4,5
+P21,Healthcare,124,41.7,6
+P22,Real estate,89,26.9,8
+P23,Energy,99,24.3,5
+P24,Real estate,47,4.7,4
+P25,Tech,65,24.6,6
