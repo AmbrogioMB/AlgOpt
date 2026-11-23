@@ -1,7 +1,7 @@
 # Algorithms for Optimization: notebooks
 
 Master Program in Finance, University of Pavia, autumn 2026.
-Notebooks of the part on linear programming, integer programming and portfolio optimization (Ambrogio Maria Bernardelli).
+Notebooks of the part on linear programming, integer programming and portfolio optimization.
 
 ## Notebooks
 
