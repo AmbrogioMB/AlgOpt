@@ -7,8 +7,8 @@ Notebooks of the part on linear programming, integer programming and portfolio o
 
 | Lectures | Notebook | | |
 |---|---|---|---|
-| 1–2 | **Linear programming** | to complete | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AmbrogioMB/AlgOpt/blob/main/Linear_programming.ipynb) |
-| 3 | Short Term Financing | available from Lecture 3 | |
+| 1–2 | **Linear programming** | solutions of the exercises of Lecture 1 included | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AmbrogioMB/AlgOpt/blob/main/Linear_programming.ipynb) |
+| 3 | **Short Term Financing** | to complete | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AmbrogioMB/AlgOpt/blob/main/Short_Term_Financing.ipynb) |
 | 4–5 | Introduction to Integer Programming | available from Lecture 4 | |
 | 6 | Portfolio Optimization | available from Lecture 6 | |
 
